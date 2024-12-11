@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Just learning how to use Git
+### Just learning how to use Git
  
 
 - 🔭 I’m currently working on ...Making Git work
