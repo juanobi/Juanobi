@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-#Project Title
  Just learning how to use Git
  
-#Features
+
 🔭 I’m currently working on ...Making Git work
  I’m currently learning ...How to Make Git work - then Pyhton
 💬 Ask me about ...the late 1900's
